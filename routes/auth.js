@@ -8,3 +8,5 @@ router.post("/admin/login",AdminLogin)
 router.post("/admin/register",AdminRegister)
 
 export default router
+
+
